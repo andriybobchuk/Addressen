@@ -1,0 +1,26 @@
+/* Navigation */
+"navigation.title" = "Addresses";
+
+/* Search */
+"search.placeholder" = "Search";
+"search.accessibility.label" = "Postcode search field";
+"search.accessibility.hint" = "Enter postcode to search salesmen";
+"search.clear.accessibility.label" = "Clear search";
+"search.clear.accessibility.hint" = "Double tap to clear search text";
+
+/* Loading States */
+"loading.salesmen" = "Loading Salesmen";
+
+/* Error States */
+"error.generic.title" = "Something went wrong";
+"error.retry.button" = "Try Again";
+
+/* Empty States */
+"empty.no.salesmen.title" = "No Salesmen";
+"empty.no.salesmen.message" = "There are no salesmen to display";
+"empty.no.results.title" = "No Results";
+"empty.no.results.message" = "No salesmen found for postcode \"%@\"";
+
+/* Accessibility */
+"accessibility.expand.hint" = "Double tap to show areas";
+"accessibility.collapse.hint" = "Double tap to hide areas";
